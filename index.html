@@ -1,37 +1,37 @@
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Shopping List</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div id="shopping-container">
-    <div id="shoppingBody">
-      <h1>Shopping List</h1>
-  
-      <div class="input-container">
-          <input id="addNewItem" type="text" placeholder="Enter an item to shopping list">
-          <button id="addItem" class="greenButton">Add</button>  
-      </div>
-      <div id="listed">
-        <ol id="itemsShoppingList"></ol>
-      </div>
-        
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="shopping-container">
+      <div id="shoppingBody">
+        <h1>Shopping List</h1>
 
-      
-  
-      <div id="button-Container">
-        <button id="checkoutItemsButton" class="greenButton">Remove Item</button>
+        <div class="input-container">
+          <input
+            id="addNewItem"
+            type="text"
+            placeholder="Enter an item to shopping list"
+          />
+          <button id="addItem" class="greenButton">Add</button>
+        </div>
+        <div id="listed">
+          <ol id="itemsShoppingList"></ol>
+        </div>
+
+        <div id="button-Container">
+          <button id="checkoutItemsButton" class="greenButton">
+            Remove Item
+          </button>
           <button id="clearItemsList">Clear List</button>
-          
+        </div>
       </div>
     </div>
-  </div>
- 
 
     <script src="index.js"></script>
-</body>
+  </body>
 </html>

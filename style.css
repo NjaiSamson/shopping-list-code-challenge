@@ -1,101 +1,101 @@
 body {
-    padding: 0px;
-    margin: 0px;
-    position: relative;
-    display: flex;
-    justify-content: center;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 #shoppingBody {
-    position: absolute;
-    height: 95vh;
-    margin: 2vh;
-    width: 70vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    border-radius: 1rem;
-    background-color: rgb(218, 185, 43);
+  position: absolute;
+  height: 95vh;
+  margin: 2vh;
+  width: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+  background-color: rgb(218, 185, 43);
 }
 
 #clearItemsList {
-    background-color: #ff0000;
-    padding: 10px 15px;
-    border-radius: 5px;
-    border: none;
-    color: black;
+  background-color: #ff0000;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+  color: black;
 }
 
 .greenButton {
-    background-color: #4ddf20;
-    padding: 10px 15px;
-    border-radius: 5px;
-    border: none;
-    color: black;
+  background-color: #4ddf20;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+  color: black;
 }
 
 #addNewItem {
-    height: 0.8rem;
-    margin-right: 1.5rem;
-    padding: 10px 15px;
-    border-radius: 5px;
-    color: black;
+  height: 0.8rem;
+  margin-right: 1.5rem;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: black;
 }
 
 #button-Container {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 #shopping-container {
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url("./images/fruits.jpg");
-    background-size: cover;
-    background-position: bottom;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./images/fruits.jpg");
+  background-size: cover;
+  background-position: bottom;
 }
 
 #listed {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: normal;
-    justify-content: center;
-    background-color: rgb(240, 233, 233);
-    width: 70%;
-    margin: 2rem 0 2rem 0;
-    border-radius: 5px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: normal;
+  justify-content: center;
+  background-color: rgb(240, 233, 233);
+  width: 70%;
+  margin: 2rem 0 2rem 0;
+  border-radius: 5px;
 }
 #listed ol li {
-    margin: 10px 10px;
+  margin: 10px 10px;
 }
 
 #start {
-    display: block;
+  display: block;
 }
 /* Prgramatically generated classes*/
 .mark-button {
-    background-color: #4ddf20;
-    color: black;
-    border: none;
-    padding: 5px 10px;
-    cursor: pointer;
-    border-radius: 4px;
-    float: right;
+  background-color: #4ddf20;
+  color: black;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  float: right;
 }
 
 .purchased-button {
-    background-color: red;
-    color: black;
-    border: none;
-    padding: 5px 10px;
-    cursor: pointer;
-    border-radius: 4px;
-    float: right;
+  background-color: red;
+  color: black;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  float: right;
 }

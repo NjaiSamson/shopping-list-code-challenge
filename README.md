@@ -1,4 +1,4 @@
-## Interactive Shopping List
+# Interactive Shopping List
 
 # Overview
 
@@ -6,7 +6,7 @@ This program is an interactive shopping list application that combines array ite
 
 # Features
 
-Major JavaScript Functions
+Major JavaScript Functions used in this program
 
 function renderItemsList()
 

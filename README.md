@@ -1,10 +1,10 @@
 # Interactive Shopping List
 
-1. # Overview
+# 1. Overview
 
 This program is an interactive shopping list application that combines array iteration, DOM manipulation, and event handling to create a dynamic and user-friendly interface. The application allows users to add items to a shopping list, mark items as purchased, and clear the list. The program also includes additional features like editing existing items and persisting data using local storage.
 
-2. # Features
+# 2. Features
 
 # Major JavaScript Functions used in this program
 
@@ -42,11 +42,11 @@ This program is an interactive shopping list application that combines array ite
 
 - Persists the itemsShoppingList array to local storage.
 
-3. # Purpose
+# 3. Purpose
 
 The purpose of this program is to provide a simple, interactive shopping list application that allows users to manage their shopping items efficiently. Users can add, edit, and remove items from the list, mark items as purchased, and clear the entire list.
 
-4. # Usage
+# 4. Usage
 
 ## Adding Items:
 

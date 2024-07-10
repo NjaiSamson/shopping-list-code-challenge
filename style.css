@@ -8,8 +8,8 @@ body {
 
 #shoppingBody {
   position: absolute;
-  height: 95vh;
   margin: 2vh;
+  padding-bottom: 2rem;
   width: 70vh;
   display: flex;
   flex-direction: column;
